@@ -1,1 +1,1 @@
-This is the solutions for 0x03. Shell, init files, variables and expansion
+This is the solution 
