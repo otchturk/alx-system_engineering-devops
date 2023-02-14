@@ -1,2 +1,2 @@
 #!/bin/bash
-echco $((BREATH**LOVE))
+echo $((BREATH**LOVE))
